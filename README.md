@@ -3,6 +3,8 @@
 https://github.com/Akash-Debnath/EMS-Old-Version)
 
 
+
+<hr>
 ## Project Setup:
 
 ### 1. Clone the repo to htdocs or www folder
