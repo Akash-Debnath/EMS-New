@@ -1,3 +1,7 @@
+### Repository URL of Old Version of EMS is here - 
+
+*Old EMS (https://github.com/Akash-Debnath/EMS-Old-Version)
+
 ## Project Setup:
 
 ### 1. Clone the repo to htdocs or www folder
@@ -68,25 +72,5 @@ body:
     or,Email :anis.rahman@genusys.us
     password: 12345678
 ```
-
-## 11.
-
-```
-Few pages still not connected to sidebar so need to check by URL hitting  ( url find from - routes/web.php )
-```
-
-
-### Development Log [Unfinished]
-
-- Pusher Notification                   **(Remaining)**
-- Automail system                       **(Remaining)**
-- Evaluation average points, current position check, evaluation status and access control             **(Remaining)**
-- Download issue in policy, jobdescription                       **(Remaining)**
-- Facilities edit/update in employee profile page                **(Remaining)**
-- Integrate gmail                                                **(Remaining)**
-- Profile Update history add in db & update when approve         **(Remaining)**
-- Attachment send to specific department/employee, attachment file delete issue when edit attachment  **(Remaining)**
-- Administrator Privilege and Permission Privilege is implemented but not used for ACL. [Can remove as not of use] 
-- Git updated
 
 
